@@ -1,3 +1,6 @@
+update: checked this through all active versions of python (3.9-3.14rc1) and got errors in every one (but didn't check
+if the message was identical but it looked very very similar at a glance).
+
 to reproduce, install dependencies, then run mypy on `src`
 
 ```text
