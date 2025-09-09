@@ -1,1 +1,2 @@
 discord.py==2.6.3
+mypy==1.17.1
